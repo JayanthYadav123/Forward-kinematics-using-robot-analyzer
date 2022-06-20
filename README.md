@@ -38,10 +38,6 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 4. simulate the model for forward kinematics.
 5. pick the graph between the link and the joints.
 6. update the Dh parameters of the link configuration and endeffector configuration
-
-
-
-
 ### SIMULATION :
 6 DOF:
 KUKA KR5 ARC ROBOT:

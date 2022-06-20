@@ -42,45 +42,18 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 
-### SIMULATION 
+### SIMULATION :
+6 DOF:
+KUKA KR5 ARC ROBOT:
  ![output](1.png)
  ![output](2.png)
+ 4 DOF:
+SCARA ROBOT:
  ![output](3.png)
  ![output](4.png)
- 
- 
- 
- 
  ### PLOT 
  ![output](5.png)
  ![output](6.png)
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### RESULTS : 
 Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
